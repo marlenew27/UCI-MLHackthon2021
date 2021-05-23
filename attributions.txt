@@ -1,0 +1,3 @@
+References:
+1. https://www.kaggle.com/hyeonjin6/lstm-nlp-for-beginners-fake-news
+2. Udacity: Intro to TensorFlow for Deep Learning
