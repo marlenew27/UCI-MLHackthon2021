@@ -6,4 +6,6 @@ Team Members: Yihan Wang & Qingchuan Yang
 
 Goal: The dataset we work on is YelpNYC. Our goal is to predict whether a Yelp review is real or fake based on NLP models.  
 
-#### - Important: source code is saved in .ipynb format in /code, and a pdf version of the notebook is also included.
+- Important: Source code is saved in .ipynb format in /code, and a pdf version of the notebook is also included.
+- References we used in the project are listed in attributions.txt.
+
